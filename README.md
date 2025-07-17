@@ -1,6 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8f69fcd9-e5eb-4e8c-b395-02538d3f781b" />
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--h1 without bottom border-->
 
 <div id="user-content-toc">
