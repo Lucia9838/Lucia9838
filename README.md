@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8f69fcd9-e5eb-4e8c-b395-02538d3f781b" />
 
 <!--h1 without bottom border-->
 
@@ -20,7 +20,7 @@
 - :Current Work: **Currently working on** `Backend Development` **&** `Distributed Systems`
 - :Tech Stack: You can visit [MY WEBSITE](https://eliochiu.github.io) for some backtend knowledge
 - :Connect with me: I'd love to connect with you! **reach me out** [![via Linkedin](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](https://www.linkedin.com/in/lucia-wang-430057237/)
-- :nerd_face: Always believe `"You are what you loved"`
+- :nerd_face: Do what you love and success will follow
 
 <br>
 
